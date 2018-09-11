@@ -2,7 +2,7 @@
 ###### With S.Wegscheid
 
 #### Setting Up Your GitHub Page
-* [How to Setup your GitHub Page](https://narvameg000.github.io/Hello-web//)
+* [Setup GitHub Page](https://narvameg000.github.io/Hello-web//)
 
 #### General Syllabus
 * IB MYP Middle School
