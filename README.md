@@ -2,11 +2,11 @@
 ###### With S.Wegscheid
 
 #### Setting Up Your GitHub Page
-* [How to Setup your GitHub Page](https://shawnwegs.github.io/Guide-to-Setup-GH-Pages/)
+* [How to Setup your GitHub Page](https://narvameg000.github.io/Hello-web//)
 
 #### General Syllabus
 * IB MYP Middle School
-* [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/IB-MYP-US-syllabus)
+* [IB MYP Upper School](https://github.com/narvameg000/Starting-Class/blob/master/IB-MYP-US-syllabus.md)
 * IB CP
 * [IB DP CS](https://shawnwegs.github.io/Starting-Class/IB-DP-CS-syllabus)
 
